@@ -1,4 +1,4 @@
-// My 3rd Semester OOP Project
+// My 3rd Semester OOP Project in Science College
 #include "Clg.h"
 using namespace std;
 
