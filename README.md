@@ -108,7 +108,7 @@
 
 [![Azeem GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=azeemaj101&theme=xcode)](https://github.com/KanwarAdnan)
 [![Snake animation](https://github.com/KanwarAdnan/KanwarAdnan/blob/main/github-contribution-grid-snake.svg)](https://github.com/KanwarAdnan)
-<!-- [![Snake animation](https://skyline.github.com/KanwarAdnan/2021)](https://github.com/KanwarAdnan) -->
+<!-- [![Snake animation](https://skyline.github.com/KanwarAdnan/2022)](https://github.com/KanwarAdnan) -->
 
 <h2><i>⚙️ GitHub Analytics</i></h2>
 
